@@ -23,7 +23,7 @@ from pyrogram.types import (
 )
 
 
-def start_pannel():
+def
     buttons = [
         [
             InlineKeyboardButton(text="Support​", url=f"https://t.me/{GROUP}"),
